@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()
+{
+int x;
+Printf ("Enter an amount of water");
+scanf ("%d",&x);
+if(x>=2000)
+{
+printf("yes");
+}
+else
+{
+printf("no");
+return 0;
+}
